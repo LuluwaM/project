@@ -32,7 +32,7 @@ TODO: Add your explanation
 
 The model's performance improved noticeably after adding the additional features, such as the separated year, month, day, and hour extracted from the datetime column. 
 
-This improvement likely occurred because breaking down the datetime into more granular components allowed the model to capture important temporal patterns and trends that were not obvious from the original datetime column alone. These features helped the model understand seasonality, daily cycles, or time-specific behaviors, which enhanced its predictive power.
+This improvement likely occurred because breaking down the datetime into more granular components allowed the model to capture important temporal patterns and trends that were not obvious from the original datetime column alone. 
 
 
 ## Hyper parameter tuning
